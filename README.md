@@ -18,3 +18,4 @@ Crashlitics is added in the app along with the GoogleService-Info.plist. Need to
 
 ## TO DO
 Test cases
+Resolve the device rotataion issue.
