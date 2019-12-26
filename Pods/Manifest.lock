@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (5.0.0-rc.3)
+  - Crashlytics (3.14.0):
+    - Fabric (~> 1.10.2)
+  - Fabric (1.10.2)
+  - ReachabilitySwift (5.0.0)
+  - Realm (4.2.0):
+    - Realm/Headers (= 4.2.0)
+  - Realm/Headers (4.2.0)
+  - RealmSwift (4.2.0):
+    - Realm (= 4.2.0)
+  - SwiftyJSON (5.0.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Alamofire (~> 5.0.0-beta.5)
+  - Crashlytics
+  - Fabric
+  - ReachabilitySwift
+  - Realm
+  - RealmSwift
+  - SwiftyJSON
+  - Toast-Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Crashlytics
+    - Fabric
+    - ReachabilitySwift
+    - Realm
+    - RealmSwift
+    - SwiftyJSON
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  Crashlytics: 540b7e5f5da5a042647227a5e3ac51d85eed06df
+  Fabric: 706c8b8098fff96c33c0db69cbf81f9c551d0d74
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  Realm: 24f62307291e35ca9ba69f4d5e7214142543b12d
+  RealmSwift: eec89a12ff5ff09f365519c64591ab297acbbb40
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: f882c65558d4bd62e0f58886775d4df6cad515a9
+
+COCOAPODS: 1.6.1

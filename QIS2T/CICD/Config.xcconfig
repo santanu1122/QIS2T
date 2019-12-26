@@ -1,0 +1,13 @@
+//
+//  Config.xcconfig
+//  QIS2T
+//
+//  Created by Santanu Das Adhikary. on 26/12/19.
+//  Copyright © 2019 Santanu Das Adhikary. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+// CICD Config details will come over here
