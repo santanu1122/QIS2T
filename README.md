@@ -19,6 +19,9 @@ XConfig file will help to publish the app using Jenkings. App name, certificate 
 ## App Analysis 
 Crashlitics is added in the app along with the GoogleService-Info.plist. Need to configure the app as per the neww google account. ( Need to download the GoogleService-Info.plist file and overwrite with the updated one )
 
+## Efforts
+Development - 12 hr, Image edit/search - 2hr, Repo Management - 2hr, Crashlitics setup - 1hr
+
 ## TO DO
 1.Test cases
 2. Resolve the device rotataion issue.
