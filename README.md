@@ -7,6 +7,9 @@ This repo is created for the Interview Assignment purpose. It's marked and MIT L
 ## App uses instractions
 Instractions are given in the App "Onbording" Section
 
+## Images
+All icons are free and taken from iconfinder
+
 ## CICD
 CICD option is provided in the App, need to edit the XConfig file as per the requirements. 
 
