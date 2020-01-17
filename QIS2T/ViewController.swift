@@ -25,7 +25,7 @@ class ViewController: ExpandingViewController,ATCWalkthroughViewControllerDelega
     @IBOutlet weak var viewResultButton: UIButton!
     var listenedTextVaue : String = ""
     
-    // walk through
+    // walk through data model
     let walkthroughs = [
         ATCWalkthroughModel(title: "Dictionary", subtitle: "Check Dictionary option to get all the Dictionary data details!", icon: "dictionary_image"),
         ATCWalkthroughModel(title: "Microphone", subtitle: "Click on the microphone to open the recording option.", icon: "process_microphone"),
